@@ -3,13 +3,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiso92&count_private=true&show_icons=true&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 222 Contributions in the Year 2022
+> 🏆 224 Contributions in the Year 2022
  > 
 > 📦 41.1 kB Used in GitHub's Storage 
  > 
@@ -19,6 +19,54 @@
  > 
 > 🔑 1 Private Repository 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    55 commits     ████████░░░░░░░░░░░░░░░░░   31.79% 
+🌆 Daytime    90 commits     █████████████░░░░░░░░░░░░   52.02% 
+🌃 Evening    27 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.61% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       37 commits     █████░░░░░░░░░░░░░░░░░░░░   21.39% 
+Tuesday      26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
+Wednesday    56 commits     ████████░░░░░░░░░░░░░░░░░   32.37% 
+Thursday     24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
+Friday       28 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.18% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Argentina/Buenos_Aires
+
+💬 Programming Languages: 
+TypeScript               1 hr 50 mins        ███████████████████████░░   94.35% 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.11% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+
+🔥 Editors: 
+VS Code                  1 hr 57 mins        █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+signpost-template        1 hr 4 mins         █████████████░░░░░░░░░░░░   54.94% 
+beporsed-ma-ra           43 mins             █████████░░░░░░░░░░░░░░░░   37.06% 
+signpost-base            9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
+
+💻 Operating System: 
+Mac                      1 hr 57 mins        █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -36,5 +84,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Guiso92/Guiso92/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2022 22:24:14 UTC
+ Last Updated on 22/09/2022 18:51:17 UTC
 <!--END_SECTION:waka-->
