@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiso92&count_private=true&show_icons=true&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -87,5 +87,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Guiso92/Guiso92/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/10/2022 18:51:03 UTC
+ Last Updated on 09/10/2022 18:51:31 UTC
 <!--END_SECTION:waka-->
