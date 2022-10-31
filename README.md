@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 399 Contributions in the Year 2022
+> 🏆 400 Contributions in the Year 2022
  > 
 > 📦 41.1 kB Used in GitHub's Storage 
  > 
@@ -87,5 +87,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Guiso92/Guiso92/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/10/2022 18:47:25 UTC
+ Last Updated on 31/10/2022 18:51:25 UTC
 <!--END_SECTION:waka-->
