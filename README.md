@@ -32,7 +32,7 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -108,5 +108,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guiso92/Guiso92/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2023 18:41:28 UTC
+ Last Updated on 18/03/2023 18:39:22 UTC
 <!--END_SECTION:waka-->
