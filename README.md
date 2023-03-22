@@ -32,7 +32,7 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -40,7 +40,7 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 
 > 📦 42.8 kB Used in GitHub's Storage 
  > 
-> 🏆 183 Contributions in the Year 2023
+> 🏆 187 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -52,7 +52,7 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 
 ```text
 🌞 Morning                3684 commits        ████████░░░░░░░░░░░░░░░░░   30.52 % 
-🌆 Daytime                6863 commits        ██████████████░░░░░░░░░░░   56.86 % 
+🌆 Daytime                6864 commits        ██████████████░░░░░░░░░░░   56.86 % 
 🌃 Evening                1318 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
 🌙 Night                  206 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
@@ -61,7 +61,7 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 ```text
 Monday                   2553 commits        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
 Tuesday                  2592 commits        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Wednesday                2515 commits        █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Wednesday                2516 commits        █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
 Thursday                 1820 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
 Friday                   2277 commits        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
 Saturday                 185 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
@@ -75,20 +75,19 @@ Sunday                   129 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Markdown                 14 mins             █████████████░░░░░░░░░░░░   50.57 % 
-TypeScript               10 mins             █████████░░░░░░░░░░░░░░░░   37.83 % 
-JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+TypeScript               10 mins             ███████████████████░░░░░░   77.38 % 
+JavaScript               2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-signpost-template        14 mins             █████████████░░░░░░░░░░░░   50.69 % 
-united-for-ukraine       13 mins             ████████████░░░░░░░░░░░░░   48.40 % 
-Simaetbhatha             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+united-for-ukraine       13 mins             █████████████████████████   99.32 % 
+signpost-template        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,5 +107,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guiso92/Guiso92/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2023 18:40:44 UTC
+ Last Updated on 22/03/2023 18:42:23 UTC
 <!--END_SECTION:waka-->
