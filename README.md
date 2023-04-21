@@ -32,7 +32,7 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,7 +40,7 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 
 > 📦 42.8 kB Used in GitHub's Storage 
  > 
-> 🏆 256 Contributions in the Year 2023
+> 🏆 257 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -75,23 +75,22 @@ Sunday                   134 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Other                    42 mins             ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-TypeScript               34 mins             ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-JSON                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-LESS                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Other                    41 mins             █████████░░░░░░░░░░░░░░░░   35.02 % 
+JSON                     27 mins             ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+TypeScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+LESS                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-whatsapp-chatgpt         1 hr 25 mins        ███████████████░░░░░░░░░░   60.70 % 
-signpost-base            48 mins             █████████░░░░░░░░░░░░░░░░   34.10 % 
-refugee.info-greece      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-cuentanos-el-salvador    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+whatsapp-chatgpt         1 hr 24 mins        ██████████████████░░░░░░░   70.92 % 
+signpost-base            30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+refugee.info-greece      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 💻 Operating System: 
-Mac                      2 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,5 +110,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guiso92/Guiso92/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2023 18:41:11 UTC
+ Last Updated on 21/04/2023 18:41:05 UTC
 <!--END_SECTION:waka-->
