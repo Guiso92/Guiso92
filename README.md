@@ -32,7 +32,7 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,19 +75,19 @@ Sunday                   134 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               20 mins             █████████████████████████   98.80 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+TypeScript               10 mins             █████████████░░░░░░░░░░░░   50.71 % 
+LESS                     9 mins              ████████████░░░░░░░░░░░░░   49.29 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-signpost-base            19 mins             ███████████████████████░░   90.42 % 
-refugee.info-country-sele1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-refugee.info-greece      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+signpost-base            13 mins             █████████████████░░░░░░░░   67.78 % 
+refugee.info-greece      5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+refugee.info-country-sele1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 
 💻 Operating System: 
-Mac                      21 mins             █████████████████████████   100.00 % 
+Mac                      20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,5 +107,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guiso92/Guiso92/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2023 18:41:11 UTC
+ Last Updated on 27/04/2023 18:40:12 UTC
 <!--END_SECTION:waka-->
