@@ -32,7 +32,7 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,19 +75,18 @@ Sunday                   134 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               35 mins             █████████████████████████   100.00 % 
+TypeScript               7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-signpost-base            27 mins             ███████████████████░░░░░░   77.16 % 
-refugee.info-greece      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-united-for-ukraine       2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-signpost-test            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+signpost-base            6 mins              █████████████████████░░░░   83.17 % 
+refugee.info-greece      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+signpost-test            0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 💻 Operating System: 
-Mac                      35 mins             █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,5 +106,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guiso92/Guiso92/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2023 18:40:27 UTC
+ Last Updated on 06/05/2023 18:39:56 UTC
 <!--END_SECTION:waka-->
