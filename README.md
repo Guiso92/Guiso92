@@ -106,5 +106,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guiso92/Guiso92/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2023 18:39:56 UTC
+ Last Updated on 07/05/2023 18:41:24 UTC
 <!--END_SECTION:waka-->
