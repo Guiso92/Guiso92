@@ -32,7 +32,7 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,20 +75,19 @@ Sunday                   139 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               6 hrs 52 mins       ████████████████████████░   96.41 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+TypeScript               5 hrs 39 mins       █████████████████████████   99.85 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-signpost-base            6 hrs 10 mins       ██████████████████████░░░   86.52 % 
-signpost-test            52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-beporsed-ma-ra           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+signpost-base            5 hrs 23 mins       ████████████████████████░   94.95 % 
+signpost-test            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 signpost-cms             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      7 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,5 +107,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guiso92/Guiso92/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2023 18:40:18 UTC
+ Last Updated on 29/07/2023 18:40:52 UTC
 <!--END_SECTION:waka-->
