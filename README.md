@@ -32,7 +32,7 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -40,7 +40,7 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 
 > 📦 43.1 kB Used in GitHub's Storage 
  > 
-> 🏆 376 Contributions in the Year 2023
+> 🏆 378 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -75,20 +75,20 @@ Sunday                   139 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               7 hrs 45 mins       ████████████████████████░   97.97 % 
-Less                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               6 hrs 53 mins       ████████████████████████░   97.60 % 
+Less                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-signpost-base            7 hrs 29 mins       ████████████████████████░   94.46 % 
-signpost-test            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-signpost-cms             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+signpost-base            6 hrs 39 mins       ████████████████████████░   94.41 % 
+signpost-test            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 💻 Operating System: 
-Mac                      7 hrs 55 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,5 +108,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guiso92/Guiso92/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2023 18:39:56 UTC
+ Last Updated on 02/08/2023 18:40:24 UTC
 <!--END_SECTION:waka-->
