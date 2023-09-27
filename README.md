@@ -32,7 +32,7 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,20 +75,20 @@ Sunday                   139 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               1 hr 26 mins        ███████████████████████░░   93.39 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Less                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+TypeScript               1 hr 54 mins        ████████████████████████░   94.89 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Less                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-signpost-base            1 hr 31 mins        ████████████████████████░   97.98 % 
-refugee.info-greece      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+signpost-base            1 hr 58 mins        █████████████████████████   98.44 % 
+refugee.info-greece      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 💻 Operating System: 
-Mac                      1 hr 33 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,5 +108,5 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guiso92/Guiso92/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2023 18:41:39 UTC
+ Last Updated on 27/09/2023 18:41:52 UTC
 <!--END_SECTION:waka-->
