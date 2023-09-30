@@ -32,13 +32,13 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 43.1 kB Used in GitHub's Storage 
+> 📦 43.2 kB Used in GitHub's Storage 
  > 
 > 🏆 434 Contributions in the Year 2023
  > 
@@ -75,21 +75,21 @@ Sunday                   139 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               2 hrs 46 mins       ████████████████████████░   96.37 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Less                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               2 hrs 25 mins       ████████████████████████░   95.88 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Less                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-signpost-base            2 hrs 24 mins       █████████████████████░░░░   83.85 % 
-refugee.info-greece      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+signpost-base            2 hrs 4 mins        ████████████████████░░░░░   81.69 % 
+refugee.info-greece      27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
 
 💻 Operating System: 
-Mac                      2 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,5 +109,5 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guiso92/Guiso92/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2023 18:41:26 UTC
+ Last Updated on 30/09/2023 18:40:27 UTC
 <!--END_SECTION:waka-->
