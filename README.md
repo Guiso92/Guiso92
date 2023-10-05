@@ -1,8 +1,7 @@
 <h2 align=center>Hi! I'm Emilio Guisolfo.</h2>
 <h3 align=center>Fullstack Developer</h3>
 <br>
-<p align="center">I'm a Software Engineer with over 6 years of experience in application development.<br /> I have worked
-with different technologies, including JavaScript, React.js, Angular and Node.js. I also had the challenge to lead and mentor different development teams. Moreover, I'm always seeking the opportunity to learn new technologies and face new technical challenges.</p>
+<p align="center">I am an accomplished Full Stack Developer with an extensive background spanning nearly a decade. My career has encompassed a range of roles, including Lead Developer and Mentor, allowing me to cultivate both technical expertise and leadership skills. I have excelled in designing, estimating, and developing user stories and epics across various projects, leveraging technologies like React, Angular, Node, and more. As a mentor, I've guided aspiring developers on their journeys, while as a Lead Developer, I've led teams to successful project outcomes. I am committed to delivering excellence and contributing to project success through technical prowess and mentorship.</p>
 <br>
 
 <h2 align="left">Connect with me:</h2>
@@ -30,85 +29,3 @@ with different technologies, including JavaScript, React.js, Angular and Node.js
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2012%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 43.2 kB Used in GitHub's Storage 
- > 
-> 🏆 440 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4215 commits        ████████░░░░░░░░░░░░░░░░░   30.40 % 
-🌆 Daytime                7935 commits        ██████████████░░░░░░░░░░░   57.22 % 
-🌃 Evening                1501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-🌙 Night                  216 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2974 commits        █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-Tuesday                  2835 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-Wednesday                2830 commits        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Thursday                 2168 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Friday                   2715 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Saturday                 206 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Sunday                   139 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Argentina/Buenos_Aires
-
-💬 Programming Languages: 
-TypeScript               4 hrs 52 mins       ████████████████████████░   95.59 % 
-GDScript3                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 5 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-signpost-base            3 hrs 50 mins       ███████████████████░░░░░░   75.47 % 
-refugee.info-greece      40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-signpost-test            34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-
-💻 Operating System: 
-Mac                      5 hrs 5 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               15 repos            ███████████░░░░░░░░░░░░░░   44.12 % 
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Handlebars               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Guiso92/Guiso92/main/assets/bar_graph.png)
-
-
- Last Updated on 04/10/2023 18:43:00 UTC
-<!--END_SECTION:waka-->
