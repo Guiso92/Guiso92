@@ -27,5 +27,3 @@
 <a href=# target="_blank"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" /> </a>
 </p>
 <br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
